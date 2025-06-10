@@ -1,7 +1,7 @@
 # Build a Real, Production-Ready Project
 
 ## Navigation
-- [Home](../../README.md)
+- [Home](../README.md)
 - [Previous: AI Specialization](../04-ai-specialization/README.md)
 - [Next: Hiring Landscape](../06-hiring-landscape/README.md)
 

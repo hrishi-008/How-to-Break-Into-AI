@@ -1,7 +1,7 @@
 # Choose Your AI Path
 
 ## Navigation
-- [Home](../../README.md)
+- [Home](../README.md)
 - [Previous: Machine Learning](../03-machine-learning/README.md)
 - [Next: Production Project](../05-production-project/README.md)
 

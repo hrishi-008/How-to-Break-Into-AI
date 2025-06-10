@@ -1,7 +1,7 @@
 # Learn Machine Learning
 
 ## Navigation
-- [Home](../../README.md)
+- [Home](../README.md)
 - [Previous: Math Fundamentals](../02-math-fundamentals/README.md)
 - [Next: AI Specialization](../04-ai-specialization/README.md)
 

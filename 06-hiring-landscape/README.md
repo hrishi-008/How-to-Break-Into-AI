@@ -1,7 +1,7 @@
 # Understand the Hiring Landscape
 
 ## Navigation
-- [Home](../../README.md)
+- [Home](../README.md)
 - [Previous: Production Project](../05-production-project/README.md)
 
 This section provides insights into the AI job market, required skills, interview preparation, and career growth opportunities.

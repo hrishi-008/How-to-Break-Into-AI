@@ -1,7 +1,7 @@
 # Brush Up on Math That Matters
 
 ## Navigation
-- [Home](../../README.md)
+- [Home](../README.md)
 - [Previous: Programming Language](../01-programming-language/README.md)
 - [Next: Machine Learning](../03-machine-learning/README.md)
 
