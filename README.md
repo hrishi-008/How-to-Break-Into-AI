@@ -47,3 +47,10 @@ Each folder contains a detailed README.md file with:
 - Practice exercises
 - Project ideas
 - Community resources
+
+## Note on Resource Maintenance
+
+The resources provided in this repository are maintained by their respective owners and may be subject to change or deletion. If you encounter any issues or have suggestions, please contact me at hackathon.hrishi@gmail.com.
+
+
+
