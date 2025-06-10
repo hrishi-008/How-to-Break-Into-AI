@@ -1,5 +1,9 @@
 # Pick a Programming Language
 
+## Navigation
+- [Home](../../README.md)
+- [Next: Math Fundamentals](../02-math-fundamentals/README.md)
+
 Pick a Programming Language (Python Recommended)
 AKA — how to stop scrolling and start coding.
 

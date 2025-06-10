@@ -1,5 +1,10 @@
 # Brush Up on Math That Matters
 
+## Navigation
+- [Home](../../README.md)
+- [Previous: Programming Language](../01-programming-language/README.md)
+- [Next: Machine Learning](../03-machine-learning/README.md)
+
 A solid foundation in mathematics is crucial for understanding and implementing AI algorithms. This section covers the essential mathematical concepts you need to know.
 
 > "You don't need to be a math prodigy to work in AI. But you do need to understand what's going on under the hood — otherwise, you'll just be plugging numbers into models and praying for accuracy."

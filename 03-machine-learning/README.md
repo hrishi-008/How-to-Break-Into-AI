@@ -1,5 +1,10 @@
 # Learn Machine Learning
 
+## Navigation
+- [Home](../../README.md)
+- [Previous: Math Fundamentals](../02-math-fundamentals/README.md)
+- [Next: AI Specialization](../04-ai-specialization/README.md)
+
 This section covers the fundamentals of machine learning, from basic concepts to advanced techniques. You'll learn how to build, train, and evaluate machine learning models.
 
 > "This is where theory meets data and magic starts to happen — provided you don't get overwhelmed by all the jargon flying at you like confetti in a storm."

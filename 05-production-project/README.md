@@ -1,5 +1,10 @@
 # Build a Real, Production-Ready Project
 
+## Navigation
+- [Home](../../README.md)
+- [Previous: AI Specialization](../04-ai-specialization/README.md)
+- [Next: Hiring Landscape](../06-hiring-landscape/README.md)
+
 This section guides you through the process of building and deploying a production-ready AI project. Learn best practices, tools, and methodologies used in industry.
 
 ## Project Development Lifecycle

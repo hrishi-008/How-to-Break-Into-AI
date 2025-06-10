@@ -1,5 +1,10 @@
 # Choose Your AI Path
 
+## Navigation
+- [Home](../../README.md)
+- [Previous: Machine Learning](../03-machine-learning/README.md)
+- [Next: Production Project](../05-production-project/README.md)
+
 This section helps you choose and specialize in specific areas of AI. Each path has its own unique challenges, applications, and career opportunities.
 
 > "By this point, you know how to train models, evaluate them, and tinker with real data. But AI is a vast forest — and you need to pick a trail."
